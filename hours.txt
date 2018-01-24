@@ -1,0 +1,37 @@
+29-nov-2017
+----------------------------------------------------------------
+2h: The environment setup (I had problems with pip install scrapy)
+
+30-nov-2017
+----------------------------------------------------------------
+1h: Introduction to scrapy
+30m: I fixed the timeout problem (have used another USER_AGENT)
+30m: I have received product links from page "http://uk.farnell.com/c/electrical"
+4h: Finished with page: "http://uk.farnell.com/c/electrical"
+=====
+Total: 6h
+
+1-dec-2017
+----------------------------------------------------------------
+1h: I added engineering-software and wireless-modules-adaptors pages.
+    Have tested the crawler and find the bug with "Tariff No".
+
+1h: Fixed the bug, and rewrote parsing "Legislation and Environmental" block.
+1h: Made the refactoring.
+2h: Tried to run spyder on scrapinghub (no result, timeout problem).
+1h: Achieved the success with running spyder on scrapinghub (Have used proxy).
+1h30m: I searched for suitable proxies middleware. Finally, have added the scrapy-rotating-proxies to the project.
+=====
+Total: 7h30m
+
+2-dec-2017
+----------------------------------------------------------------
+20m: Wrote the assumptions.txt
+30m: Made the refactoring
+2h: Testing and bug fixing
+=====
+Total: 2h50m
+
+3-dec-2017
+----------------------------------------------------------------
+2h: Added tests to the project

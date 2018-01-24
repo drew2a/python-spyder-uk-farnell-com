@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+/.idea/
+/results.jl
+*.pyc
+/spyder_uk_farnell_com.egg-info/
+/build/
+__pycache__/
+/venv/

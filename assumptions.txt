@@ -1,0 +1,6 @@
+1. Using the BeautifulSoup
+
+I have used BeautifulSoup because I didn't find an easy way to get a text from an HTML block with all children, using Scrapy.
+I needed this functionality while parsing "Legislation and Environmental"
+In css words: ('#pdpSection_ProductLegislation > div.collapsable-content > dl> dt') and
+              ('#pdpSection_ProductLegislation > div.collapsable-content > dl> dd')
